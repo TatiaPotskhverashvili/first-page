@@ -1,0 +1,42 @@
+.page-article{
+   text-align: center;
+   color: rgb(239, 238, 245);
+   font-style: oblique;
+   font-size:large
+}
+h1 {
+font-size: large;
+color: rgb(227, 219, 233);
+font-style: inherit;
+text-align: center;
+}
+img{
+    max-width: min-content;
+    max-height: min-content;
+    border-radius: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Personal-info{
+    font-size: large;
+    color: rgb(243, 241, 248);
+    font-style: normal;
+    text-align: center;
+    text-decoration: double;
+}
+#contactInfo{
+    text-align: center;
+    font-style: italic;
+    color: rgb(237, 235, 245);
+    font-size: larger
+    }
+.soc-media{
+    text-align: center;
+    font-size: larger;
+    color: rgb(248, 245, 241);
+    font-style: normal;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
